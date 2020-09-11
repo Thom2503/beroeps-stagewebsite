@@ -2,8 +2,5 @@
 stagewebsite beroeps2 // schoolopdracht
 
 
-
-Thom
-
-_____
-
+#HALLLLO
+dit is een readme
